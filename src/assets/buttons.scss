@@ -1,0 +1,15 @@
+@import './colors.scss';
+
+@mixin button {
+    margin: 0 0.3rem;
+    padding: 0.3rem 0.5rem;
+    border-radius: 3px;
+    font-size: 1.1rem;
+    outline: none;
+    transition: transform 0.2s ease-in-out;
+
+     &:hover {
+        cursor: pointer;
+        transform: scale(1.05);
+    }
+}
