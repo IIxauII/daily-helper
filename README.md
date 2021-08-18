@@ -1,6 +1,6 @@
 # daily-helper
 
-electron based native application which strives to support during remote meetings (e.g. Microsoft Teams Calls)
+Electron & Vue.js based native application which strives to support during remote meetings (e.g. Microsoft Teams Calls)
 
 ## Features
 
